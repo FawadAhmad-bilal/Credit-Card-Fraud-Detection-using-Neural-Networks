@@ -115,6 +115,7 @@ Dense(1, sigmoid) [Binary Classification]
 - 📧 fawadahmad19991@gmail.com
 - 🐙 [github.com/FawadAhmad-bilal](https://github.com/FawadAhmad-bilal)
 
+
 ---
 
 ⭐ If this project helped you, please consider giving it a star!
